@@ -14,11 +14,15 @@ Kim Moran
 
 ## Deployed Page
 
+https://progressive-text-editor.herokuapp.com/
+
 ## GitHub Repo
 
 https://github.com/kimberlym4488/progressive-text-editing
 
 ## Video Walkthrough
+
+https://www.loom.com/share/29ba8be93aea487a936e375bc15dd219
 
 ## Project Description
 
