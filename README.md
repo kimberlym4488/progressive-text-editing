@@ -46,6 +46,8 @@ Please open a new issue and subsequent branch to contribute, or feel free to for
 
 ## Preview Image
 
+[![image](https://user-images.githubusercontent.com/92805933/159798259-7825fad1-ff81-473b-931c-21b5511c4bf9.png)](https://progressive-text-editor.herokuapp.com/)
+
 ## GitHub userName
 
 [kimberlym4488](https://github.io/kimberlym4488)
